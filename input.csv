@@ -1,0 +1,6 @@
+url,warc_filename,warc_record_offset,warc_record_length
+https://www.bbcaraibe.com/collections/diamond-rock?page=2,crawl-data/CC-MAIN-2023-06/segments/1674764499816.79/warc/CC-MAIN-20230130101912-20230130131912-00375.warc.gz,686862915,19442
+https://www.bbcaraibe.com/collections/jelly/products/jelly-1,crawl-data/CC-MAIN-2023-06/segments/1674764499758.83/warc/CC-MAIN-20230129180008-20230129210008-00662.warc.gz,691346463,21238
+https://www.bbcaraibe.com/collections/jelly/products/jelly-10,crawl-data/CC-MAIN-2023-06/segments/1674764499758.83/warc/CC-MAIN-20230129180008-20230129210008-00074.warc.gz,667608820,21092
+https://www.bbcaraibe.com/collections/jelly/products/jelly-11,crawl-data/CC-MAIN-2023-06/segments/1674764499758.83/warc/CC-MAIN-20230129180008-20230129210008-00075.warc.gz,688559692,20960
+https://www.bbcaraibe.com/collections/jelly/products/jelly-12,crawl-data/CC-MAIN-2023-06/segments/1674764499758.83/warc/CC-MAIN-20230129180008-20230129210008-00076.warc.gz,683095803,20963
